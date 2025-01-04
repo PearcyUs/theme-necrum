@@ -1,0 +1,27 @@
+/**
+ * @name NECRUM CHEATS
+ * @author Martinez
+ * @version 1.0
+ */
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://raw.githack.com/PearcyUs/necrum-system-theme/main/necrum-theme-discord/core.css');
+
+:root{
+    --background: url('https://picfiles.alphacoders.com/655/655105.jpg');
+    --activetext-colour: white;
+
+    --primary1-colour: rgb(41, 0, 75); /* Cor de algum detalhes */
+    --primary2-colour: rgba(0, 0, 0, 0);  /* Lateral Bar */
+    --primary3-colour: rgb(44, 0, 85); /* Other Details */
+
+    --secondary1-colour: rgba(0, 0, 0, 0.295); /* Muda a cor da mensagens*/
+    --secondary2-colour: rgba(0, 0, 0, 0.918);  /* passando o mouse por cima*/
+    --secondary3-colour: rgba(24, 0, 46, 0.925); /* Muda a top bar, mensagem no Direct e o mute e fone*/
+
+    --transparency-1: linear-gradient(to right, rgba(0, 0, 0, 0.11), rgb(0, 0, 0));  /* Fade fundo do discord */
+    --transparency-2: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 0, 0)); /* Fundo do discord dos Direct */
+    --transparency-3: linear-gradient(to right, rgba(0, 0, 0, 0.404), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgb(0, 0, 0), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgb(0, 0, 0), rgb(0, 0, 0));
+    
